@@ -1,0 +1,12 @@
+Componentes de terceros incluidos en esta carpeta
+=================================================
+
+react.dev.js
+  Contiene React 19.2.x y ReactDOM (build de desarrollo, empaquetado para el navegador).
+  Copyright (c) Meta Platforms, Inc. y afiliados. Licencia MIT.
+  https://github.com/facebook/react
+
+sucrase.min.js
+  Sucrase 3.35.x: transpilador JSX/TypeScript usado para ejecutar los ejemplos en el navegador.
+  Copyright (c) 2012-2018 various contributors. Licencia MIT.
+  https://github.com/alangpierce/sucrase
